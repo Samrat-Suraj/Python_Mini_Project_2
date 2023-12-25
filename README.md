@@ -1,2 +1,2 @@
 # Project_2
-This a Python MIni project : - Guessing Game
+This a Python Mini project : - Guessing Game
